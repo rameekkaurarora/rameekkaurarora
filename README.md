@@ -5,8 +5,7 @@
 ## 🧠 What I Do:
 - 🧑‍💻 **Machine Learning**: From regression models to deep learning (CNNs, RNNs), I love building systems that learn from data.
 - 📊 **Data Analysis & Visualization**: I analyze and manipulate data to uncover hidden patterns, and then use data visualization tools like **Tableau**, **Power BI**, **Matplotlib**, and **Excel** to tell compelling stories.
-- 🌐 **AI Development**: Whether it's recommendation systems, chatbots, or neural networks, I'm all about pushing the boundaries of what's possible with AI.
-
+- 🌐 **AI and Machine Learning Development**: I focus on creating intelligent systems that learn from data, including building predictive models, optimizing algorithms, and applying deep learning techniques to solve complex real-world problems.
 ## 🔧 Tools & Tech I Work With:
 
 - **Languages**: 
