@@ -4,7 +4,7 @@
 
 ## 🧠 What I Do:
 - 🧑‍💻 **Machine Learning**: From regression models to deep learning (CNNs, RNNs), I love building systems that learn from data.
-- 📊 **Data Science**: I analyze and manipulate data to uncover hidden patterns, and then use data visualization tools like **Tableau**, **Matplotlib**, and **Plotly** to tell compelling stories.
+- 📊 **Data Analysis & Visualization**: I analyze and manipulate data to uncover hidden patterns, and then use data visualization tools like **Tableau**, **Power BI**, **Matplotlib**, and **Excel** to tell compelling stories.
 - 🌐 **AI Development**: Whether it's recommendation systems, chatbots, or neural networks, I'm all about pushing the boundaries of what's possible with AI.
 
 ## 🔧 Tools & Tech I Work With:
@@ -20,8 +20,10 @@
   - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
   - ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-- **Data Visualization**:
+- **Data Visualization & Analysis**:
   - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+  - ![Power BI](https://img.shields.io/badge/-Power%20BI-2B91A5?style=flat&logo=powerbi&logoColor=white)
+  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
   - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0076A8?style=flat&logo=matplotlib&logoColor=white)
   - ![Seaborn](https://img.shields.io/badge/-Seaborn-5D8B8E?style=flat&logo=seaborn&logoColor=white)
   - ![Plotly](https://img.shields.io/badge/-Plotly-3D4D7D?style=flat&logo=plotly&logoColor=white)
