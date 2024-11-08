@@ -16,7 +16,6 @@ I am passionate about Data Science and love solving problems using Machine Learn
 I have a strong background in data analysis and machine learning, with expertise in:
 - Python, R, SQL, TensorFlow, Keras
 - Data visualization tools: Tableau, Matplotlib, Seaborn, Plotly
-- 
 - 📫 How to reach me **aroraramneekkaur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
