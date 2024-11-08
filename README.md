@@ -1,5 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ramneek Kaur Arora</h1>
-<h3 align="center">A passionate Data Scientist and AI enthusiast with a Master's degree in Computer Science from the University of Western Ontario. I specialize in Data Science, Machine Learning, and Artificial Intelligence, and have hands-on experience with a wide range of data analysis, machine learning algorithms, and data visualization tools.</h3>
+# Hi there 👋, I'm Ramneek Kaur Arora!
+
+I hold a Master's degree in Computer Science with a specialization in AI. My academic background is deeply rooted in data science and AI.
+
+### 📖 Coursework:
+- Data Science
+- Machine Learning
+- Data Visualization
+- Advanced Databases
+- Natural Language Processing
+
+### 🔭 Interests
+I am passionate about Data Science and love solving problems using Machine Learning and AI techniques.
+
+### ⚡ Skills
+I have a strong background in data analysis and machine learning, with expertise in:
+- Python, R, SQL, TensorFlow, Keras
+- Data visualization tools: Tableau, Matplotlib, Seaborn, Plotly
+
+### 🛠️ Languages and Tools:
+Python, R, C++, Tableau, Jupyter, Anaconda, Microsoft Office, MySQL, Oracle, Pandas, NumPy, TensorFlow, Keras, Matplotlib, Seaborn, Plotly
+
+### 📫 How to reach me
+- **Email:** aroraramneekkaur@gmail.com
+- **LinkedIn:** [Ramneek Kaur Arora](https://www.linkedin.com/in/your-profile/)
+- **LeetCode:** [Check out my profile](https://leetcode.com/your-profile/)
+
+🌱 In my spare time, I enjoy working on data science projects and participating in online coding challenges on platforms like LeetCode.
 
 - 🔭 I’m currently working on **LinkedIn Job Analysis**
 
