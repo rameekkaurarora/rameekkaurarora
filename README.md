@@ -1,30 +1,52 @@
-# Hi there 👋, I'm Ramneek Kaur Arora!
+# 👋 Hi there, I'm **Ramneek Kaur Arora**!
 
-I hold a Master's degree in Computer Science with a specialization in AI. My academic background is deeply rooted in data science and AI.
+🚀 I'm a **Data Science enthusiast** with a passion for turning raw data into actionable insights and building intelligent systems using **Machine Learning** and **Artificial Intelligence**. With a **Master's degree in Computer Science** (AI specialization) and a background in **Data Science** and **AI**, I am always looking for new challenges to grow my skills.
 
-### 📖 Coursework:
-- Data Science
-- Machine Learning
-- Data Visualization
-- Advanced Databases
-- Natural Language Processing
+## 🧠 What I Do:
+- 🧑‍💻 **Machine Learning**: From regression models to deep learning (CNNs, RNNs), I love building systems that learn from data.
+- 📊 **Data Science**: I analyze and manipulate data to uncover hidden patterns, and then use data visualization tools like **Tableau**, **Matplotlib**, and **Plotly** to tell compelling stories.
+- 🌐 **AI Development**: Whether it's recommendation systems, chatbots, or neural networks, I'm all about pushing the boundaries of what's possible with AI.
 
-### 🔭 Interests
-I am passionate about Data Science and love solving problems using Machine Learning and AI techniques.
+## 🔧 Tools & Tech I Work With:
 
-### ⚡ Skills
-I have a strong background in data analysis and machine learning, with expertise in:
-- Python, R, SQL, TensorFlow, Keras
-- Data visualization tools: Tableau, Matplotlib, Seaborn, Plotly
-- 📫 How to reach me **aroraramneekkaur@gmail.com**
+- **Languages**: 
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=postgresql&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ramneeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramneeka" height="30" width="40" /></a>
-<a href="https://instagram.com/ramneeeeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramneeeeek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramneek10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramneek10" height="30" width="40" /></a>
-</p>
+- **ML & AI**:
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+  - ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Data Visualization**:
+  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0076A8?style=flat&logo=matplotlib&logoColor=white)
+  - ![Seaborn](https://img.shields.io/badge/-Seaborn-5D8B8E?style=flat&logo=seaborn&logoColor=white)
+  - ![Plotly](https://img.shields.io/badge/-Plotly-3D4D7D?style=flat&logo=plotly&logoColor=white)
 
+- **Databases**:
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+- **Cloud & Platforms**:
+  - ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+  - ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+## 🌱 Currently Learning:
+- I’m diving deeper into **Natural Language Processing** and experimenting with **Reinforcement Learning**. Stay tuned for some exciting projects!
+
+## 📚 Academic Background:
+- **Master's in Computer Science** (AI specialization) - University of Western Ontario
+- **Bachelor of Technology** in Computer Science (Data Science) - Medi-Caps University
+
+## 💬 Let’s Connect:
+I’m always open to collaborating on innovative projects or discussing new trends in **AI** and **Data Science**.
+
+- 📧 **Email**: aroraramneekkaur@gmail.com
+- 🌐 **LinkedIn**: [Ramneek Kaur Arora](https://www.linkedin.com/in/your-profile/)
+- 🔑 **LeetCode**: [LeetCode Profile](https://leetcode.com/your-profile/)
+
+🌟 Check out my repositories to see the magic I’m working on!
